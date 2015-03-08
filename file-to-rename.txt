@@ -1,0 +1,2 @@
+This is a simple file for you to rename.  What will happen when the filename
+changes but the contents don't?
