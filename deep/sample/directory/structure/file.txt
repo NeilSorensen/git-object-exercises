@@ -1,0 +1,4 @@
+This is a simple file deep in a directory structure.
+
+Make a change to this file to see how git handles changes to files relatively
+deep in the directory structure.
