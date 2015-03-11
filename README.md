@@ -85,7 +85,7 @@ In this exercise, we'll perform a simple rebase with no conflicts.  Rebase is th
   6. What will happen if you use `git merge simple-rebase` on rebase-master?
 
 
-Squash (squash)
+Squash (simple-squash)
 ---------------
 
 In this exercise, we'll use interactive rebase to reduce the number of commits in a local branch before applying them to master. This allows you to take advantage of git's ability to quickly make local commits to save state, while limiting the number of commits that you share.
